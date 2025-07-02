@@ -24,4 +24,4 @@ With a curious mindset and a passion for learning, I aim to turn raw data into m
   - Conducted exploratory data analysis (EDA) using **Python (pandas, matplotlib, seaborn)**.  
   - Created a visually appealing dashboard in **Power BI** for decision-makers.  
   - Identified content strategies that performed well across regions.  
-- **[Explore the Repository](https://github.com/Prasanth7733/Netflix-Data-Analysis)** 
+- **[Explore the Repository](https://github.com/Kudaysadvik/Netflix-data-analysis-EDA)** 
