@@ -15,7 +15,7 @@ With a curious mindset and a passion for learning, I aim to turn raw data into m
 - Web         : HTML, CSS, Java script. 
 - Learning    : Machine Learning, APIs, Git .  
 - 🚀 Constantly learning and exploring new technologies and industry trends to build innovative solutions.
-- 
+  
 
 ---
 ### 📊 [Netflix Data Analysis](#)  
@@ -26,7 +26,7 @@ With a curious mindset and a passion for learning, I aim to turn raw data into m
   - Identified content strategies that performed well across regions.  
 - **[Explore the Repository](https://github.com/Kudaysadvik/Netflix-data-analysis-EDA)**
 
-- 
+  
 ---
 ## 🤝 Let's Connect
 
