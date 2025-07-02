@@ -14,6 +14,14 @@ With a curious mindset and a passion for learning, I aim to turn raw data into m
 - Data Tools  :  Excel, Power BI.
 - Web         : HTML, CSS, Java script. 
 - Learning    : Machine Learning, APIs, Git .  
-- 🚀 Constantly learning and exploring new technologies and industry trends to build innovative solutions. 
+- 🚀 Constantly learning and exploring new technologies and industry trends to build innovative solutions.
+- 
 
 ---
+### 📊 [Netflix Data Analysis](#)  
+- **Objective**: Analyzed Netflix’s extensive dataset to uncover trends in content creation, user preferences, and global viewership.  
+- **Highlights**:  
+  - Conducted exploratory data analysis (EDA) using **Python (pandas, matplotlib, seaborn)**.  
+  - Created a visually appealing dashboard in **Power BI** for decision-makers.  
+  - Identified content strategies that performed well across regions.  
+- **[Explore the Repository](https://github.com/Prasanth7733/Netflix-Data-Analysis)** 
